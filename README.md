@@ -6,24 +6,23 @@ Während die Einen beispielsweise eine Keks-basierte Süßigkeit bevorzugen, fav
 Die Ergebnisse der Marktforschung liegen nun vor und Du wurdest beauftragt eine Analyse der Daten durchzuführen. Ziel ist es, die Auswirkungen der Charakteristika von Süßwaren auf deren Beliebtheit zu analysieren und auf Basis dieser Analyse eine Empfehlung für die Eigenschaften einer neuen Süßigkeit abzugeben.
 
 
-## Dataset Overview
+## Datensatzübersicht
 
-The `candy-data.csv` file contains attributes for various candies, along with their rankings based on popularity. For binary variables, **1 indicates "yes"** and **0 indicates "no."**
+Die Datei `candy-data.csv` enthält Attribute für verschiedene Süßigkeiten sowie deren Rangfolge basierend auf ihrer Beliebtheit. Bei binären Variablen bedeutet **1 "ja"** und **0 "nein".**
 
-### Data Fields Description
+### Datenfeldbeschreibung
 
-| **Column Name**        | **Description**                                                          |
+| **Spaltenname**        | **Beschreibung**                                                        |
 |------------------------|-------------------------------------------------------------------------|
-| `chocolate`            | Indicates if the candy contains chocolate.                              |
-| `fruity`               | Indicates if the candy is fruit-flavored.                               |
-| `caramel`              | Indicates if the candy contains caramel.                                |
-| `peanutalmondy`        | Indicates if the candy contains peanuts, peanut butter, or almonds.     |
-| `nougat`               | Indicates if the candy contains nougat.                                 |
-| `crispedricewafer`     | Indicates if the candy contains crisped rice, wafers, or a cookie component. |
-| `hard`                 | Indicates if the candy is hard.                                         |
-| `bar`                  | Indicates if the candy is a candy bar.                                  |
-| `pluribus`             | Indicates if the candy is part of a collection (e.g., many candies in a bag or box). |
-| `sugarpercent`         | Represents the sugar content percentile within the dataset.             |
-| `pricepercent`         | Represents the unit price percentile compared to other candies.         |
-| `winpercent`           | The overall win percentage based on 269,000 matchups.                   |
-
+| `chocolate`            | Gibt an, ob die Süßigkeit Schokolade enthält.                           |
+| `fruity`               | Gibt an, ob die Süßigkeit fruchtig ist.                                 |
+| `caramel`              | Gibt an, ob die Süßigkeit Karamell enthält.                             |
+| `peanutalmondy`        | Gibt an, ob die Süßigkeit Erdnüsse, Erdnussbutter oder Mandeln enthält.|
+| `nougat`               | Gibt an, ob die Süßigkeit Nougat enthält.                               |
+| `crispedricewafer`     | Gibt an, ob die Süßigkeit gepufften Reis, Waffeln oder Keks enthält.    |
+| `hard`                 | Gibt an, ob es sich um eine harte Süßigkeit handelt.                   |
+| `bar`                  | Gibt an, ob es sich um einen Schokoriegel handelt.                      |
+| `pluribus`             | Gibt an, ob die Süßigkeit Teil einer Sammlung ist (z. B. mehrere Süßigkeiten in einer Tüte oder Schachtel). |
+| `sugarpercent`         | Repräsentiert den Zuckergehalt in Prozent im Vergleich zu anderen Süßigkeiten im Datensatz. |
+| `pricepercent`         | Repräsentiert den Preis in Prozent im Vergleich zu anderen Süßigkeiten im Datensatz. |
+| `winpercent`           | Der Gesamtgewinnprozentsatz basierend auf 269.000 Vergleichen.         |
