@@ -5,6 +5,10 @@ Der Einkauf von Lidl möchte das Süßwarensortiment (Eigenmarke) erweitern. Hie
 Während die Einen beispielsweise eine Keks-basierte Süßigkeit bevorzugen, favorisieren Andere eine Fruchtgummivariation. Daher hat der Bereichsvorstand beschlossen ein Marktforschungsunternehmen zu beauftragen, um die Beliebtheit, der am Markt erhältlichen Süßwaren, zu ermitteln.
 Die Ergebnisse der Marktforschung liegen nun vor und Du wurdest beauftragt eine Analyse der Daten durchzuführen. Ziel ist es, die Auswirkungen der Charakteristika von Süßwaren auf deren Beliebtheit zu analysieren und auf Basis dieser Analyse eine Empfehlung für die Eigenschaften einer neuen Süßigkeit abzugeben.
 
+Den Datensatz (inkl. einer kurzen Beschreibung) findest Du unter:
+https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking
+Hierbei handelt es sich um einen Datensatz von FiveThirtyEight, der unter der Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/) steht.
+
 
 ## Datensatzübersicht
 
